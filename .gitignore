@@ -1,0 +1,8 @@
+.mypy_cache
+build
+dist
+MathLib.egg-info
+*.pyc
+.vscode
+venv
+__pycache__
